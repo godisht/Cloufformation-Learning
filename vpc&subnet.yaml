@@ -3,7 +3,7 @@ Description: CloudFormation template for creating a VPC and subnets
 
 Parameters:
   VpcCidr:
-    Description: CIDR block for the VPC
+    Description: CIDR block for the VPC creation
     Type: String
     Default: 192.168.0.0/16
 
