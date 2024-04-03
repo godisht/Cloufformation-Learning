@@ -45,8 +45,3 @@ Outputs:
   VpcId:
     Description: VPC ID
     Value: !Ref MyVPC
-    ####
-    ########3
-    ############3
-    ################
-    ################33
